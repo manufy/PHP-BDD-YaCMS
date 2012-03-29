@@ -1,0 +1,17 @@
+-----------------------------------------------------------------
+
+		Welcome to the building of a new BDD PHP CMS
+
+-----------------------------------------------------------------
+
+
+   INTRODUCTION
+===================
+
+This is a minimal CMD developed with the BDD in mind ;)
+
+29.3.2012 v0.0.2 
+
+	Containing the minimal skeleton, with phpspec framework and a test.
+
+By: Manuel Fernandez Yañez 2012

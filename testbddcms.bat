@@ -1,0 +1,1 @@
+php53 ./lib/PHPSpec-1.3.0beta/phpspec.php   ./Tests/BDDCMS/DescribeWhenCreatingNewBDDCMS.php -f d
